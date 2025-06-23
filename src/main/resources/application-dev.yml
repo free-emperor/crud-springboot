@@ -1,0 +1,5 @@
+MySQL_HOST: localhost
+MySQL_PORT: 3306
+MySQL_DB: introduction
+MySQL_PASSWORD:
+MySQL_USERNAME: root
